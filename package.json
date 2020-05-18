@@ -1,9 +1,9 @@
 {
-  "name": "react-starter-boilerplate-hmr",
+  "name": "boardgame-study",
   "version": "1.0.0",
-  "description": "React starter boilerplate with Hot Module Replacement, React 16 and Webpack 4",
+  "description": "",
   "main": "index.js",
-  "author": "Esau Silva <@_esausilva>",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server --env.env=dev",
@@ -49,20 +49,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/esausilva/react-starter-boilerplate-hmr.git"
+    "url": "git+https://github.com/kimkyeseung/boardgame-study.git"
   },
   "bugs": {
-    "url": "https://github.com/esausilva/react-starter-boilerplate-hmr/issues"
+    "url": "https://github.com/kimkyeseung/boardgame-study/issues"
   },
-  "keywords": [
-    "react",
-    "react 16",
-    "boilerplate",
-    "semantic ui",
-    "semantic ui react",
-    "webpack 4",
-    "webpack",
-    "hot module replacement",
-    "hmr"
-  ]
+  "keywords": [],
+  "homepage": "https://github.com/kimkyeseung/boardgame-study#readme"
 }
